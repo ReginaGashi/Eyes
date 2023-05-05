@@ -6,8 +6,8 @@ Description: This displays an image of two eyes which move with your mouse strok
 <img src= "oneeye.png" width = '300'/>
 
 
-**How to:**
-
+**How to Run:**
+You can clone this repository to your own machine.  Load your browser page using the file called "Index.html" to generate the PacMan images on your own screen.
 
 
 **Road Map:**
